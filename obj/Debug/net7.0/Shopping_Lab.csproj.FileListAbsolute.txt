@@ -1,0 +1,14 @@
+/Users/nc3_goodluck/Shopping_Lab/bin/Debug/net7.0/Shopping_Lab
+/Users/nc3_goodluck/Shopping_Lab/bin/Debug/net7.0/Shopping_Lab.deps.json
+/Users/nc3_goodluck/Shopping_Lab/bin/Debug/net7.0/Shopping_Lab.runtimeconfig.json
+/Users/nc3_goodluck/Shopping_Lab/bin/Debug/net7.0/Shopping_Lab.dll
+/Users/nc3_goodluck/Shopping_Lab/bin/Debug/net7.0/Shopping_Lab.pdb
+/Users/nc3_goodluck/Shopping_Lab/obj/Debug/net7.0/Shopping_Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nc3_goodluck/Shopping_Lab/obj/Debug/net7.0/Shopping_Lab.AssemblyInfoInputs.cache
+/Users/nc3_goodluck/Shopping_Lab/obj/Debug/net7.0/Shopping_Lab.AssemblyInfo.cs
+/Users/nc3_goodluck/Shopping_Lab/obj/Debug/net7.0/Shopping_Lab.csproj.CoreCompileInputs.cache
+/Users/nc3_goodluck/Shopping_Lab/obj/Debug/net7.0/Shopping_Lab.dll
+/Users/nc3_goodluck/Shopping_Lab/obj/Debug/net7.0/refint/Shopping_Lab.dll
+/Users/nc3_goodluck/Shopping_Lab/obj/Debug/net7.0/Shopping_Lab.pdb
+/Users/nc3_goodluck/Shopping_Lab/obj/Debug/net7.0/Shopping_Lab.genruntimeconfig.cache
+/Users/nc3_goodluck/Shopping_Lab/obj/Debug/net7.0/ref/Shopping_Lab.dll
